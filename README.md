@@ -1,15 +1,17 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
+![CF](http://i.imgur.com/7v5ASc8.png) LAB-06
 =================================================
 
-## Project Name
+## Lab-06 Event Driven Apps
 
-### Author: Student/Group Name
+### Author: Ryan Gallaway
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+
+[![Build Status](https://www.travis-ci.com/rkgallaway/06-event-driven-apps.svg?branch=master)](https://www.travis-ci.com/rkgallaway/06-event-driven-apps)
+
+* [repo](https://github.com/rkgallaway/06-event-driven-apps)
+* [travis](https://www.travis-ci.com/rkgallaway/06-event-driven-apps)
+* [server](https://lab-06-event-driven-apps.herokuapp.com/)
 
 ### Modules
 #### `modulename.js`
@@ -23,8 +25,7 @@ Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - port defined in ENV
 
 #### Running the app
 * `npm start`
@@ -38,5 +39,3 @@ Usage Notes or examples
 * What assertions were made?
 * What assertions need to be / should be made?
 
-#### UML
-Link to an image of the UML for your application and response to events
