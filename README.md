@@ -16,6 +16,8 @@
 ### Modules
 #### `modulename.js`
 ##### Exported Values and Methods
+### Collaborated with:
+* Heather Cherewaty
 
 ###### `foo(thing) -> string`
 Usage Notes or examples
