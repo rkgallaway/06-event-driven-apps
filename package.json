@@ -4,9 +4,11 @@
   "description": "Events Lab",
   "main": "app.js",
   "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
     "test": "jest --verbose --coverage"
   },
-  "author": "",
+  "author": "Ryan Gallaway",
   "license": "MIT",
   "dependencies": {
     "jest": "^23.6.0"
