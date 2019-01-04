@@ -5,7 +5,7 @@ const EE = require('events');
 const util = require('util');
 const events = new EE();
 const readFile = util.promisify(fs.readFile);
-
+const writeFIle = util.promisify(fs.writeFile);
 
 
 const alterFile = (file) => {
